@@ -1,8 +1,7 @@
 streamlit
 pandas
-numpy
-tensorflow
-scikit-learn
 joblib
-matplotlib
+numpy
 plotly
+matplotlib
+scikit-learn  # Nếu mô hình sử dụng sklearn
