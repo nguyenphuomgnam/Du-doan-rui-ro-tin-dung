@@ -4,4 +4,5 @@ joblib
 numpy
 plotly
 matplotlib
-scikit-learn  # Nếu mô hình sử dụng sklearn
+scikit-learn
+xgboost
